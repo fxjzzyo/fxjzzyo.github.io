@@ -8,10 +8,8 @@
 	{% include _partial/post/jiathis.html %}
 	 </div>
 	{% elsif site.share_to %}
-<!-- 	  <div data-url="{{ site.url }}{{ site.baseurl }}{{ item.url }}" data-title="{% if item.title %}{{ item.title }} | {% endif %}{{ site.title }}" data-tsina="{{ site.author.tsina }}" class="share clearfix">
-	  </div> -->
-	  <div data-url="{{ item.url }}" data-title="{% if item.title %}{{ item.title }} | {% endif %}{{ site.title }}" data-tsina="{{ site.author.tsina }}" class="share clearfix">
-	  </div> 
+	  <div data-url="{{ site.url }}{{ site.baseurl }}{{ item.url }}" data-title="{% if item.title %}{{ item.title }} | {% endif %}{{ site.title }}" data-tsina="{{ site.author.tsina }}" class="share clearfix">
+	  </div>
 	{% endif %}
 	</div>
 {% endif %}
