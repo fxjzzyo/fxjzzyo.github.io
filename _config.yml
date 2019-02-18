@@ -31,8 +31,8 @@ paginate: 5
 title : Welcome to fxjzzyo's blog
 tagline: You are more than what you have been now !
 assets: /assets
-url:https://fxjzzyo.github.io/
-baseurl: https://fxjzzyo.github.io/
+url:
+baseurl: /
 
 #### Language
 language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
@@ -40,8 +40,8 @@ language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
 #### Menu
 menu:
   Home: /
-  Archives: /archives
-  About: /about
+  Archives: https://fxjzzyo.github.io/archives
+  About: https://fxjzzyo.github.io/about
 ## you can create `tags` and `categories` folders (I had created them already).
 ## And create a `index.md` file in each of them.
 ## set `front-matter`as
