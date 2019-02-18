@@ -7,7 +7,7 @@ tags:
 categories: Android
 description: 本文章将介绍Android调用OpenCV的配置方法。
 ---
-@[toc]
+
 
 ## 1.	环境
 Windows10
