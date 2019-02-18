@@ -31,8 +31,8 @@ paginate: 5
 title : Welcome to fxjzzyo's blog
 tagline: You are more than what you have been now !
 assets: /assets
-url:
-baseurl: /
+url:https://fxjzzyo.github.io/
+baseurl: https://fxjzzyo.github.io/
 
 #### Language
 language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
